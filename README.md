@@ -9,18 +9,18 @@ Information: https://medpix.nlm.nih.gov/home
 
 ***
 
+__Alzheimer's Disease Neuroimaging Initiative (ADNI)__  
+MRI database on Alzheimer's patients and healthy controls. Also has clinical, genomic, and biomaker data. __Requires registration__.  
+Paper: http://www.neurology.org/content/74/3/201.short  
+Access: http://adni.loni.usc.edu/data-samples/access-data/
+
+***
+
 __ABIDE: The Autism Brain Imaging Data Exchange: towards a large-scale evaluation of the intrinsic brain architecture in autism.__  
 Function MRI images for 539 individuals suffering from ASD and 573 typical controls. These 1112 datasets are composed of structural and resting state functional MRI data along with an extensive array of phenotypic information. __Requires registration__.    
 Paper: http://www.ncbi.nlm.nih.gov/pubmed/23774715  
 Information: http://fcon_1000.projects.nitrc.org/indi/abide/  
 Preprocessed version: http://preprocessed-connectomes-project.org/abide/  
-
-***
-
-__Alzheimer's Disease Neuroimaging Initiative (ADNI)__  
-MRI database on Alzheimer's patients and healthy controls. Also has clinical, genomic, and biomaker data. __Requires registration__.  
-Paper: http://www.neurology.org/content/74/3/201.short  
-Access: http://adni.loni.usc.edu/data-samples/access-data/
 
 ***
 
